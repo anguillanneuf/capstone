@@ -1,9 +1,13 @@
-Next Word Prediction Shinyapp
+Next Word Prediction
 ========================================================
 author: Tianzi Harrison
 date: August 17, 2015
 transition: rotate
 css: united.css
+
+- [Link to App on Shinyapps](http://tianzih.shinyapps.io/nextword)
+- [Link to Codes on Github](https://github.com/anguillanneuf/capstone)
+- [Link to Milestone Report](http://rpubs.com/anguillanneuf/nextword)
 
 About the App
 ========================================================
